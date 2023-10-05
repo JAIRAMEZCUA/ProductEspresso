@@ -23,6 +23,9 @@ import com.google.android.material.snackbar.Snackbar
  * Coupons on my Website:
  * www.alainnicolastello.com
  ***/
+
+
+/*TODO NOTA ES importante desactivr las animaciones para expresso */
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     lateinit var selectedProduct: Product
